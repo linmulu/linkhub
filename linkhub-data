@@ -48,5 +48,25 @@
     "size": "MEDIUM", 
     "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link-images/水母智能.jpg",
     "group": "WORK"
+  },
+ {
+    "id": "unique_id_6",
+    "title": "my Product Hunt",
+    "url": "https://www.producthunt.com/@mingji",
+    "iconName": "Globe",
+    "isActive": true,
+    "size": "SMALL", 
+    "imageUrl": "",
+    "group": "PERSONAL"
+  },
+ {
+    "id": "unique_id_7",
+    "title": "my GitHub",
+    "url": "https://github.com/linmulu",
+    "iconName": "Globe",
+    "isActive": true,
+    "size": "SMALL", 
+    "imageUrl": "",
+    "group": "PERSONAL"
   }
 ]
