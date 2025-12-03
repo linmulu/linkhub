@@ -26,7 +26,7 @@
     "iconName": "Globe",
     "isActive": true,
     "size": "LARGE", 
-    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link images/animeshorts.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link-images/animeshorts.jpg",
     "group": "WORK"
   },
  {
@@ -36,7 +36,7 @@
     "iconName": "Globe",
     "isActive": true,
     "size": "MEDIUM", 
-    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link images/触手AI.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link-images/触手AI.jpg",
     "group": "WORK"
   },
  {
@@ -46,7 +46,7 @@
     "iconName": "Globe",
     "isActive": true,
     "size": "MEDIUM", 
-    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link images/水母智能.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link-images/水母智能.jpg",
     "group": "WORK"
   }
 ]
