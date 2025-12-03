@@ -36,7 +36,7 @@
     "iconName": "Globe",
     "isActive": true,
     "size": "MEDIUM", 
-    "imageUrl": "https://picsum.photos/id/3/600/400",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link images/触手AI.jpg",
     "group": "WORK"
   },
  {
@@ -46,7 +46,7 @@
     "iconName": "Globe",
     "isActive": true,
     "size": "MEDIUM", 
-    "imageUrl": "https://picsum.photos/id/3/600/400",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/linmulu/linkhub/link images/水母智能.jpg",
     "group": "WORK"
   }
 ]
